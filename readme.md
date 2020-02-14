@@ -1,10 +1,6 @@
 # Clear Linux Automatic Torrent Creator
 > Automatically creates torrent files for the latest Clear Linux iso.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 THis python script downloads the latest iso from Clear Linux CDN, and automatically creates a .torrent file with the CDN as Webseed.
 
 ![](header.png)
@@ -14,7 +10,7 @@ THis python script downloads the latest iso from Clear Linux CDN, and automatica
 ```pip install torrentool
 pip install humanize
 pip install tqdm
-``
+```
 
 ## Development setup
 
