@@ -24,6 +24,7 @@ try:
     "). Please wait...")
 
 #TODO : Check if file exists and overwrite
+#retrieve iso from clear linux website
 
     request.urlretrieve(webseed_desktop_live,iso_desktop_live)
 
